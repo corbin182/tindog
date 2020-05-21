@@ -1,0 +1,100 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+h1 {
+  padding-top: 10%;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+h3 {
+  font-weight: 600;
+}
+p {
+  color: grey;
+}
+/* Section 1 */
+#title {
+  background-color: #ff4c68;
+  text-align: left;
+}
+.container-fluid {
+  padding: 0 15%;
+}
+/* NavBar */
+.navbar {
+  margin-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.download-button {
+  margin: 5% 5% 0 0;
+}
+.dog-photo {
+  width: 60%;
+  transform: rotate(20deg);
+}
+/* Section 2 Features */
+#features {
+  padding: 15%;
+}
+.col-features {
+  padding: 0 5%;
+}
+.feature-icon {
+  color: #ff4c68;
+  padding-bottom: 1rem;
+}
+.feature-icon:hover {
+  color: black;
+}
+/* Section 3 Testimonials */
+#testimonials {
+  padding: 5% 15%;
+  background-color: #ff4c68;
+  color: white;
+}
+.dog-test {
+  padding: 5%;
+  width: 30%;
+  border-radius: 75%;
+}
+#press {
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 20%;
+  padding: 0 5%;
+}
+/* Section 4 Pricing */
+#pricing {
+  padding: 4% 12%;
+}
+.pricing-column {
+  margin-top: 3%;
+}
+/* Section 5 Footer */
+#cta {
+  background-color: #ff4c68;
+  padding: 2%;
+}
+#footer {
+  padding: 3%;
+}
+.social {
+  padding: 1%;
+}
